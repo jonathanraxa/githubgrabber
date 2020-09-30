@@ -1,0 +1,21 @@
+.gh{
+  &_navbar{
+    width: 100%;
+    padding: 2rem;
+    background-color: #8a8a8a85;
+  }
+  &_search{
+    .fields{
+      display: flex;
+      justify-content: center;
+      padding: 1rem;
+    }
+  }
+
+  &_card{
+    display: flex;
+    justify-content: center;
+
+  }
+
+}
